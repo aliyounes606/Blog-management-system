@@ -28,8 +28,8 @@
 ###  استنساخ المستودع (Clone Repository)
 
 ```bash
-git clone [رابط GitHub الخاص بمشروعك]
-cd [اسم مجلد المشروع]
+```git clone https://github.com/aliyounes606/Blog-management-system.git```
+```cd Blog-management-system```
 
 ثم قم بتثبيت حزم PHP المطلوبة:
 
