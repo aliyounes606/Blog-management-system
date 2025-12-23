@@ -19,6 +19,8 @@ class AddBlogRequest extends FormRequest
      *
      * @return array<string, \Illuminate\Contracts\Validation\ValidationRule|array<mixed>|string>
      */
+
+    //add rules to blogs 
     public function rules(): array
     {
         return [
